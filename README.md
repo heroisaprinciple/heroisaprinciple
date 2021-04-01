@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @heroisaprinciple
+- 👋 Hi, I’m @heroisaprinciple. Credo: A warrior seeks equilibrium.
 - 👀 I’m interested in learning Front-End, reading and drinking beer. 
 - 🌱 I’m currently learning how to stop procrastionating.
 - 💞️ I’m looking to collaborate on Heineken.
